@@ -1,6 +1,6 @@
 # SpringField-JPA-Study
 
-### 자료구조와 함께 배우는 알고리즘 입문
+### 자바 ORM 표준 JPA 프로그래밍
 
 | Week | Chapter | Title | Date | Link |
 | :--: | :-----: | :---: | :--: | :--: |
