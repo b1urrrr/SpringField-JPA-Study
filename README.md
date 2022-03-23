@@ -4,7 +4,7 @@
 
 | Week | Chapter | Title | Date | Link |
 | :--: | :-----: | :---: | :--: | :--: |
-| 1 | 01 | JPA 소개 | 22.03.23 | <a href="">🔗</a> |
+| 1 | 01 | JPA 소개 | 22.03.23 |  |
 |   | 02 | JPA 시작 | 22.03.23 | <a href="https://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch02-jpa-start1">🔗</a> |
 
 <!--
