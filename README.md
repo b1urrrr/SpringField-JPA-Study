@@ -8,6 +8,9 @@
 |   | 02 | JPA 시작 | 22.03.23 | <a href="https://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch02-jpa-start1">🔗</a> |
 | 2 | 03 | 영속성 관리 | 22.03.30 |  |
 |   | 04 | 엔티티 매핑 | 22.03.30 | <a href="https://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch04-jpa-start2">🔗</a> <a href="https://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch04-model1">🔗</a> |
+| 3 | 05 | 연관관계 매핑 기초 | 22.04.06 | <a href="https://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch05-model2">🔗</a> |
+|   | 06 | 다양한 연관관계 매핑 | 22.04.06 | <a href="https://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch06-model3">🔗</a> |
+| 4 | 07 | 고급 매핑 | 22.04.27 | <a href="ttps://github.com/b1urrrr/SpringField-JPA-Study/tree/main/ch07-model4">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
